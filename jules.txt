@@ -6,7 +6,7 @@ Hey There! This is my blog in the skin of a terminal.<!-- laglaglaglaglaglaglagl
 <p>Hi i am jules.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> hello you can see here my other website<a href="https://90fx4tpnrnj1gpsz4fm2hw-on.drv.tw/Html%20pages/html%20pages/hig%20tech%20page/"> website</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>hi i am 15 and i made a some website that i wanne share. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p> here are some other websites, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
 hé you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="jules.cleiren@telenet.be">Email</a>.
 
