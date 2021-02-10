@@ -5,9 +5,9 @@ My favorite code quote, "<span id="k">choose to fight</span>". <!-- sjkfhskjf --
 Hey There! This is my blog in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see, this is very well done</p>
 <p>Hi i am jules.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> hello you can see here my other website<a href="https://90fx4tpnrnj1gpsz4fm2hw-on.drv.tw/Html%20pages/html%20pages/hig%20tech%20page/"> website</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>hi i am 15 and i made a some website that i wanne share. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p>hi i am 15 and i made a some website that i wanne share. <br><br><br>here is a simple hello world page. <a href="https://90fx4tpnrnj1gpsz4fm2hw-on.drv.tw/Html%20pages/html%20pages/"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> here are some other websites, here: <br> <a href="https://90fx4tpnrnj1gpsz4fm2hw-on.drv.tw/Html%20pages/html%20pages/car%20website/car.html">car website</a> <br> <a href="https://90fx4tpnrnj1gpsz4fm2hw-on.drv.tw/Html%20pages/html%20pages/z-production/file2.html">z-production</a> and <br> <a href="https://90fx4tpnrnj1gpsz4fm2hw-on.drv.tw/Html%20pages/html%20pages/secret%20web/new%20website.html">secret page</a>.</p>
 
-hé you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="jules.cleiren@telenet.be">jules.cleiren@telenet.be</a>.
+hé you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="jules.cleiren@telenet.be"> jules.cleiren@telenet.be</a>.
 
 <p>Cheers!</p>
